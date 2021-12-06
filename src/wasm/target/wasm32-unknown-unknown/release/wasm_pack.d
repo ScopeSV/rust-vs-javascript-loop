@@ -1,0 +1,1 @@
+/Users/stephan/development/24SevenOffice/wasm/wasm-go/src/wasm-pack/target/wasm32-unknown-unknown/release/wasm_pack.wasm: /Users/stephan/development/24SevenOffice/wasm/wasm-go/src/wasm-pack/src/lib.rs
